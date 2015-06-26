@@ -1,7 +1,4 @@
-.project
-*~
-*.diff
-*.patch
-.DS_Store
-.settings
-
+dist
+node_modules
+build/report
+browserstack-run.pid
